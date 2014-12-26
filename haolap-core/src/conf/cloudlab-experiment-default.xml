@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <property>
+        <name>experiment.multi.servers</name>
+        <value>cloud00,cloud01,cloud02,cloud03,cloud04,cloud05,cloud06,cloud07,cloud08,cloud09,cloud10,cloud11,cloud12
+        </value>
+    </property>
+    <property>
+        <name>experiment.multi.thread.num</name>
+        <value>1,2</value>
+    </property>
+    <property>
+        <name>experiment.output.path</name>
+        <value>/home/marc/output</value>
+    </property>
+    <property>
+        <name>experiment.output.file.name</name>
+        <value>result.csv</value>
+    </property>
+</configuration>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <property>
+        <name>rpc.schema.server.address</name>
+        <value>localhost</value>
+    </property>
+    <property>
+        <name>rpc.schema.server.port</name>
+        <value>9510</value>
+    </property>
+    <property>
+        <name>job.server.port</name>
+        <value>5800</value>
+    </property>
+    <property>
+        <name>job.server.maxLengthOfQueue</name>
+        <value>10</value>
+    </property>
+    <property>
+        <name>meta.data.server.port</name>
+        <value>5700</value>
+    </property>
+    <property>
+        <name>meta.data.server.maxLengthOfQueue</name>
+        <value>10</value>
+    </property>
+    <property>
+        <name>fs.default.name</name>
+        <value>hdfs://localhost:9000/</value>
+    </property>
+    <property>
+        <name>path.base</name>
+        <value>/HaoLap</value>
+    </property>
+</configuration>

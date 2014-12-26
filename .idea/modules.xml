@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Haolap.iml" filepath="$PROJECT_DIR$/Haolap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-loader/data-loader.iml" filepath="$PROJECT_DIR$/data-loader/data-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haolap-core/haolap-core.iml" filepath="$PROJECT_DIR$/haolap-core/haolap-core.iml" />
+    </modules>
+  </component>
+</project>

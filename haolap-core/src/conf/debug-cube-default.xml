@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <property>
+        <name>rpc.schema.server.address</name>
+        <value>localhost</value>
+    </property>
+    <property>
+        <name>rpc.schema.server.port</name>
+        <value>9510</value>
+    </property>
+</configuration>
