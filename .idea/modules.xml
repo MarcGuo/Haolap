@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Haolap.iml" filepath="$PROJECT_DIR$/Haolap.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-loader/data-loader.iml" filepath="$PROJECT_DIR$/data-loader/data-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haolap-command/haolap-command.iml" filepath="$PROJECT_DIR$/haolap-command/haolap-command.iml" />
       <module fileurl="file://$PROJECT_DIR$/haolap-core/haolap-core.iml" filepath="$PROJECT_DIR$/haolap-core/haolap-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haolap-message/haolap-message.iml" filepath="$PROJECT_DIR$/haolap-message/haolap-message.iml" />
     </modules>
   </component>
 </project>
